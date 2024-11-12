@@ -22,7 +22,7 @@
 # Our App: Eat something
 ![homepage](https://user-images.githubusercontent.com/42389173/53878909-05554800-4005-11e9-9943-5c9d9d8f1ebd.png)
 
-A hosted version of this app can be found on Heroku at [eat-something1.heroku.com] (https://eat-something1.herokuapp.com)
+A hosted version of this app can be found on Heroku at [eat-something1.heroku.com] (https://eat-something1.herokuapp.com) - (build errors to be fixed).
 
 ### Application Overview
 

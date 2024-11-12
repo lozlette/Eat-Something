@@ -22,8 +22,6 @@ class Navbar extends React.Component {
   }
 
 
-
-
   logout(){
     Auth.removeToken()
     this.props.history.push('/')
